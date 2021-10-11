@@ -1,0 +1,42 @@
+body {
+  min-height: auto;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+p,
+h2,
+label,
+button,
+.modal-body .modal-title {
+  font-family: "Noto Sans Display", sans-serif;
+}
+
+.p-modal {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#modalheader {
+  font-family: "Noto Sans Display";
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+#pmodal {
+  font-family: "Noto Sans Display";
+}
+#games {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
